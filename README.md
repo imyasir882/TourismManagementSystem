@@ -1,11 +1,4 @@
-# TourismManagementSystem
-
-
-I'll create a comprehensive README.md file that explains all the features and how to use the Tourism Management System.
-
-```markdown
 # Tourism Management System
-
 A RESTful API system for managing tourist attractions, visitors, and reviews. This system helps track tourist attractions, manage visitor information, and handle reviews while maintaining proper validation and business rules.
 
 ## Features
